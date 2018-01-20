@@ -10,7 +10,9 @@
 3. Implement Real Time Scheduling of PThread threads.
 
 
-In this assignment, we are shifting from multi process to multi threads. By means of the **pthread_create()** and **pthread_join()** OR **pthead_detached()** function (if you want to), create 3 different threads.
+### In this assignment, 
+
+we are shifting from multi process to multi threads. By means of the **pthread_create()** and **pthread_join()** OR **pthead_detached()** function (if you want to), create 3 different threads.
 
 1. The first thread should mimics acquiring a temperature value from the equation below:
 
